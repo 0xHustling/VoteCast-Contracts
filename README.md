@@ -1,3 +1,13 @@
+# VoteCast - ETHGlobal London 2024 Project
+![ETHGlobal_London_Banner](https://github.com/ethglobal-london-2024/votecast/assets/8581537/79d0c6ea-d927-4fd7-afd3-5e8d7ade533b)
+
+## About
+Enable Cross-Chain DAO Participation on the Farcaster Network
+
+We empower Farcaster users to participate in DAO governance, irrespective of the underlying blockchain network. 
+
+Our product enables users to cast votes on proposals across different chains directly from their Safe ERC4337 wallet on the Base Network, streamlining the governance process and fostering greater community involvement.
+
 <p align="center">
   <a href="https://layerzero.network">
     <img alt="LayerZero" style="max-width: 500px" src="https://d3a2dpnnrypp5h.cloudfront.net/bridge-app/lz.png"/>
